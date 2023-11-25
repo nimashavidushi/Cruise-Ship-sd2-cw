@@ -1,0 +1,12 @@
+cabin no. 1 is empty 
+cabin no. 2 is empty 
+cabin no. 3 is empty 
+cabin no. 4 is empty 
+bob is in cabin no. 5. 
+cabin no. 6 is empty 
+cabin no. 7 is empty 
+cabin no. 8 is empty 
+cabin no. 9 is empty 
+jenny is in cabin no. 10. 
+cabin no. 11 is empty 
+cabin no. 12 is empty 
